@@ -11,6 +11,20 @@ body {
   gap: 20px;
 }
 
+#profile {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 20px;
+}
+
+#avatar {
+  width: 64px;
+  height: 64px;
+  border-radius: 50%;
+  border: 2px solid #444;
+}
+
 .card {
   background: #020617;
   border-radius: 12px;
