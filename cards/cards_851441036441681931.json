@@ -1,38 +1,8 @@
 {
   "user_id": "851441036441681931",
   "username": "winston",
-  "avatar": "https://cdn.discordapp.com/guilds/1205761619263623218/users/851441036441681931/avatars/a_3593ad0cfe097cdae15173d7d0ce4924.png?size=256",
+  "avatar": "https://cdn.discordapp.com/guilds/1205761619263623218/users/851441036441681931/avatars/a_3593ad0cfe097cdae15173d7d0ce4924.gif?size=1024",
   "cards": [
-    {
-      "id": 8,
-      "name": "Rayissexing '2021",
-      "rank": "D",
-      "image": "https://ik.imagekit.io/rnomfb5zn/cardgames/D_0003.png"
-    },
-    {
-      "id": 5,
-      "name": "PJ 01",
-      "rank": "C",
-      "image": "https://ik.imagekit.io/rnomfb5zn/cardgames/C_0001.png?updatedAt=1766021003784"
-    },
-    {
-      "id": 8,
-      "name": "Rayissexing '2021",
-      "rank": "D",
-      "image": "https://ik.imagekit.io/rnomfb5zn/cardgames/D_0003.png"
-    },
-    {
-      "id": 11,
-      "name": "Justlive1995 03",
-      "rank": "D",
-      "image": "https://ik.imagekit.io/rnomfb5zn/cardgames/D_0006.png"
-    },
-    {
-      "id": 5,
-      "name": "PJ 01",
-      "rank": "C",
-      "image": "https://ik.imagekit.io/rnomfb5zn/cardgames/C_0001.png?updatedAt=1766021003784"
-    },
     {
       "id": 17,
       "name": "Justlive1995-Gekko",
@@ -40,46 +10,34 @@
       "image": "https://ik.imagekit.io/rnomfb5zn/cardgames/A_0003.png"
     },
     {
-      "id": 12,
-      "name": "Justlive1995 04",
-      "rank": "C",
-      "image": "https://ik.imagekit.io/rnomfb5zn/cardgames/C_0002.png?updatedAt=1766020216844"
+      "id": 6,
+      "name": "Burny 01",
+      "rank": "A",
+      "image": "https://ik.imagekit.io/rnomfb5zn/cardgames/A_0001.png"
     },
     {
-      "id": 12,
-      "name": "Justlive1995 04",
-      "rank": "C",
-      "image": "https://ik.imagekit.io/rnomfb5zn/cardgames/C_0002.png?updatedAt=1766020216844"
+      "id": 15,
+      "name": "Joyful",
+      "rank": "B",
+      "image": "https://ik.imagekit.io/rnomfb5zn/cardgames/B_0004.png"
     },
     {
-      "id": 3,
-      "name": "Horus '2017",
-      "rank": "D",
-      "image": "https://ik.imagekit.io/rnomfb5zn/cardgames/D_0001.png"
+      "id": 14,
+      "name": "Rayissexing",
+      "rank": "B",
+      "image": "https://ik.imagekit.io/rnomfb5zn/cardgames/B_0003.png"
     },
     {
-      "id": 12,
-      "name": "Justlive1995 04",
-      "rank": "C",
-      "image": "https://ik.imagekit.io/rnomfb5zn/cardgames/C_0002.png?updatedAt=1766020216844"
+      "id": 13,
+      "name": "Everyjsnndkk",
+      "rank": "B",
+      "image": "https://ik.imagekit.io/rnomfb5zn/cardgames/B_0002.png"
     },
     {
-      "id": 7,
-      "name": "Justlive1995 02",
-      "rank": "D",
-      "image": "https://ik.imagekit.io/rnomfb5zn/cardgames/D_0002.png"
-    },
-    {
-      "id": 3,
-      "name": "Horus '2017",
-      "rank": "D",
-      "image": "https://ik.imagekit.io/rnomfb5zn/cardgames/D_0001.png"
-    },
-    {
-      "id": 7,
-      "name": "Justlive1995 02",
-      "rank": "D",
-      "image": "https://ik.imagekit.io/rnomfb5zn/cardgames/D_0002.png"
+      "id": 13,
+      "name": "Everyjsnndkk",
+      "rank": "B",
+      "image": "https://ik.imagekit.io/rnomfb5zn/cardgames/B_0002.png"
     },
     {
       "id": 15,
@@ -94,22 +52,118 @@
       "image": "https://ik.imagekit.io/rnomfb5zn/cardgames/C_0001.png?updatedAt=1766021003784"
     },
     {
+      "id": 5,
+      "name": "PJ 01",
+      "rank": "C",
+      "image": "https://ik.imagekit.io/rnomfb5zn/cardgames/C_0001.png?updatedAt=1766021003784"
+    },
+    {
+      "id": 12,
+      "name": "Justlive1995 04",
+      "rank": "C",
+      "image": "https://ik.imagekit.io/rnomfb5zn/cardgames/C_0002.png?updatedAt=1766020216844"
+    },
+    {
+      "id": 12,
+      "name": "Justlive1995 04",
+      "rank": "C",
+      "image": "https://ik.imagekit.io/rnomfb5zn/cardgames/C_0002.png?updatedAt=1766020216844"
+    },
+    {
+      "id": 12,
+      "name": "Justlive1995 04",
+      "rank": "C",
+      "image": "https://ik.imagekit.io/rnomfb5zn/cardgames/C_0002.png?updatedAt=1766020216844"
+    },
+    {
+      "id": 5,
+      "name": "PJ 01",
+      "rank": "C",
+      "image": "https://ik.imagekit.io/rnomfb5zn/cardgames/C_0001.png?updatedAt=1766021003784"
+    },
+    {
+      "id": 5,
+      "name": "PJ 01",
+      "rank": "C",
+      "image": "https://ik.imagekit.io/rnomfb5zn/cardgames/C_0001.png?updatedAt=1766021003784"
+    },
+    {
+      "id": 5,
+      "name": "PJ 01",
+      "rank": "C",
+      "image": "https://ik.imagekit.io/rnomfb5zn/cardgames/C_0001.png?updatedAt=1766021003784"
+    },
+    {
+      "id": 12,
+      "name": "Justlive1995 04",
+      "rank": "C",
+      "image": "https://ik.imagekit.io/rnomfb5zn/cardgames/C_0002.png?updatedAt=1766020216844"
+    },
+    {
+      "id": 18,
+      "name": "Rayissexing '2022",
+      "rank": "C",
+      "image": "https://ik.imagekit.io/rnomfb5zn/cardgames/C_0003.png"
+    },
+    {
+      "id": 19,
+      "name": "Green Tea",
+      "rank": "C",
+      "image": "https://ik.imagekit.io/rnomfb5zn/cardgames/C_0004.png"
+    },
+    {
+      "id": 5,
+      "name": "PJ 01",
+      "rank": "C",
+      "image": "https://ik.imagekit.io/rnomfb5zn/cardgames/C_0001.png?updatedAt=1766021003784"
+    },
+    {
+      "id": 8,
+      "name": "Rayissexing '2021",
+      "rank": "D",
+      "image": "https://ik.imagekit.io/rnomfb5zn/cardgames/D_0003.png"
+    },
+    {
+      "id": 8,
+      "name": "Rayissexing '2021",
+      "rank": "D",
+      "image": "https://ik.imagekit.io/rnomfb5zn/cardgames/D_0003.png"
+    },
+    {
       "id": 11,
       "name": "Justlive1995 03",
       "rank": "D",
       "image": "https://ik.imagekit.io/rnomfb5zn/cardgames/D_0006.png"
     },
     {
-      "id": 5,
-      "name": "PJ 01",
-      "rank": "C",
-      "image": "https://ik.imagekit.io/rnomfb5zn/cardgames/C_0001.png?updatedAt=1766021003784"
+      "id": 3,
+      "name": "Horus '2017",
+      "rank": "D",
+      "image": "https://ik.imagekit.io/rnomfb5zn/cardgames/D_0001.png"
     },
     {
-      "id": 5,
-      "name": "PJ 01",
-      "rank": "C",
-      "image": "https://ik.imagekit.io/rnomfb5zn/cardgames/C_0001.png?updatedAt=1766021003784"
+      "id": 7,
+      "name": "Justlive1995 02",
+      "rank": "D",
+      "image": "https://ik.imagekit.io/rnomfb5zn/cardgames/D_0002.png"
+    },
+    {
+      "id": 3,
+      "name": "Horus '2017",
+      "rank": "D",
+      "image": "https://ik.imagekit.io/rnomfb5zn/cardgames/D_0001.png"
+    },
+    {
+      "id": 7,
+      "name": "Justlive1995 02",
+      "rank": "D",
+      "image": "https://ik.imagekit.io/rnomfb5zn/cardgames/D_0002.png"
+    },
+    {
+      "id": 11,
+      "name": "Justlive1995 03",
+      "rank": "D",
+      "image": "https://ik.imagekit.io/rnomfb5zn/cardgames/D_0006.png"
     },
     {
       "id": 9,
@@ -136,12 +190,6 @@
       "image": "https://ik.imagekit.io/rnomfb5zn/cardgames/D_0002.png"
     },
     {
-      "id": 14,
-      "name": "Rayissexing",
-      "rank": "B",
-      "image": "https://ik.imagekit.io/rnomfb5zn/cardgames/B_0003.png"
-    },
-    {
       "id": 8,
       "name": "Rayissexing '2021",
       "rank": "D",
@@ -152,12 +200,6 @@
       "name": "PJ 02",
       "rank": "D",
       "image": "https://ik.imagekit.io/rnomfb5zn/cardgames/D_0004.png"
-    },
-    {
-      "id": 13,
-      "name": "Everyjsnndkk",
-      "rank": "B",
-      "image": "https://ik.imagekit.io/rnomfb5zn/cardgames/B_0002.png"
     },
     {
       "id": 9,
@@ -178,18 +220,6 @@
       "image": "https://ik.imagekit.io/rnomfb5zn/cardgames/D_0001.png"
     },
     {
-      "id": 13,
-      "name": "Everyjsnndkk",
-      "rank": "B",
-      "image": "https://ik.imagekit.io/rnomfb5zn/cardgames/B_0002.png"
-    },
-    {
-      "id": 12,
-      "name": "Justlive1995 04",
-      "rank": "C",
-      "image": "https://ik.imagekit.io/rnomfb5zn/cardgames/C_0002.png?updatedAt=1766020216844"
-    },
-    {
       "id": 9,
       "name": "PJ 02",
       "rank": "D",
@@ -202,46 +232,16 @@
       "image": "https://ik.imagekit.io/rnomfb5zn/cardgames/D_0006.png"
     },
     {
-      "id": 15,
-      "name": "Joyful",
-      "rank": "B",
-      "image": "https://ik.imagekit.io/rnomfb5zn/cardgames/B_0004.png"
-    },
-    {
       "id": 9,
       "name": "PJ 02",
       "rank": "D",
       "image": "https://ik.imagekit.io/rnomfb5zn/cardgames/D_0004.png"
     },
     {
-      "id": 6,
-      "name": "Burny 01",
-      "rank": "A",
-      "image": "https://ik.imagekit.io/rnomfb5zn/cardgames/A_0001.png"
-    },
-    {
-      "id": 18,
-      "name": "Rayissexing '2022",
-      "rank": "C",
-      "image": "https://ik.imagekit.io/rnomfb5zn/cardgames/C_0003.png"
-    },
-    {
-      "id": 19,
-      "name": "Green Tea",
-      "rank": "C",
-      "image": "https://ik.imagekit.io/rnomfb5zn/cardgames/C_0004.png"
-    },
-    {
       "id": 3,
       "name": "Horus '2017",
       "rank": "D",
       "image": "https://ik.imagekit.io/rnomfb5zn/cardgames/D_0001.png"
-    },
-    {
-      "id": 5,
-      "name": "PJ 01",
-      "rank": "C",
-      "image": "https://ik.imagekit.io/rnomfb5zn/cardgames/C_0001.png?updatedAt=1766021003784"
     },
     {
       "id": 10,
