@@ -34,8 +34,6 @@ fetch(jsonPath)
 
       div.innerHTML = `
         <img src="${card.image}" loading="lazy">
-        <p>${card.name}</p>
-        <small>${card.rank}</small>
       `;
 
       container.appendChild(div);
