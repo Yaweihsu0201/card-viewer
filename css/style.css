@@ -1,0 +1,35 @@
+body {
+  background: #0f172a;
+  color: white;
+  font-family: system-ui, sans-serif;
+  padding: 20px;
+}
+
+#card-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: 20px;
+}
+
+.card {
+  background: #020617;
+  border-radius: 12px;
+  padding: 10px;
+  transition: transform 0.2s;
+}
+
+.card:hover {
+  transform: scale(1.05);
+}
+
+.card img {
+  width: 100%;
+  border-radius: 8px;
+}
+
+.rank-D { border: 2px solid #444; }
+.rank-C { border: 2px solid #a67c00; }
+.rank-B { border: 2px solid #4ade80; }
+.rank-A { border: 2px solid #38bdf8; }
+.rank-S { border: 2px solid #c084fc; }
+.rank-Splus { border: 2px solid gold; }
