@@ -10,6 +10,36 @@
       "image": "https://ik.imagekit.io/rnomfb5zn/cardgames/S_0002.png"
     },
     {
+      "id": 1,
+      "name": "特戰曾秉叡",
+      "rank": "S",
+      "image": "https://ik.imagekit.io/rnomfb5zn/cardgames/S_0002.png"
+    },
+    {
+      "id": 6,
+      "name": "Burny 01",
+      "rank": "A",
+      "image": "https://ik.imagekit.io/rnomfb5zn/cardgames/A_0001.png"
+    },
+    {
+      "id": 16,
+      "name": "Horus-Phoenix",
+      "rank": "A",
+      "image": "https://ik.imagekit.io/rnomfb5zn/cardgames/A_0002.png"
+    },
+    {
+      "id": 16,
+      "name": "Horus-Phoenix",
+      "rank": "A",
+      "image": "https://ik.imagekit.io/rnomfb5zn/cardgames/A_0002.png"
+    },
+    {
+      "id": 25,
+      "name": "Miss Kang <3",
+      "rank": "A",
+      "image": "https://ik.imagekit.io/rnomfb5zn/cardgames/A_0004.png"
+    },
+    {
       "id": 16,
       "name": "Horus-Phoenix",
       "rank": "A",
@@ -22,16 +52,46 @@
       "image": "https://ik.imagekit.io/rnomfb5zn/cardgames/A_0003.png"
     },
     {
-      "id": 15,
-      "name": "Joyful",
+      "id": 13,
+      "name": "Everyjsnndkk",
       "rank": "B",
-      "image": "https://ik.imagekit.io/rnomfb5zn/cardgames/B_0004.png"
+      "image": "https://ik.imagekit.io/rnomfb5zn/cardgames/B_0002.png"
+    },
+    {
+      "id": 4,
+      "name": "Justlive1995 01",
+      "rank": "B",
+      "image": "https://ik.imagekit.io/rnomfb5zn/cardgames/B_0001.png"
     },
     {
       "id": 13,
       "name": "Everyjsnndkk",
       "rank": "B",
       "image": "https://ik.imagekit.io/rnomfb5zn/cardgames/B_0002.png"
+    },
+    {
+      "id": 15,
+      "name": "Joyful",
+      "rank": "B",
+      "image": "https://ik.imagekit.io/rnomfb5zn/cardgames/B_0004.png"
+    },
+    {
+      "id": 4,
+      "name": "Justlive1995 01",
+      "rank": "B",
+      "image": "https://ik.imagekit.io/rnomfb5zn/cardgames/B_0001.png"
+    },
+    {
+      "id": 13,
+      "name": "Everyjsnndkk",
+      "rank": "B",
+      "image": "https://ik.imagekit.io/rnomfb5zn/cardgames/B_0002.png"
+    },
+    {
+      "id": 14,
+      "name": "Rayissexing",
+      "rank": "B",
+      "image": "https://ik.imagekit.io/rnomfb5zn/cardgames/B_0003.png"
     },
     {
       "id": 4,
