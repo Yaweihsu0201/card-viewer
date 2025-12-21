@@ -50,7 +50,7 @@ body {
 .rank-C { border: 2px solid #a67c00; }
 .rank-B { border: 2px solid #4ade80; }
 .rank-A { border: 2px solid #38bdf8; }
-.card-s {
+.rank-S {
   /* 這裡保留你原本的設定 */
   background-image: url('your-card-image.jpg');
   background-size: cover;
@@ -60,7 +60,7 @@ body {
   border-radius: 12px;
 }
 
-.card-s:hover::before {
+.rank-S:hover::before {
   content: "";
   position: absolute;
   top: 0; left: 0; right: 0; bottom: 0;
