@@ -23,7 +23,7 @@ fetch(jsonPath)
     // 標題
     document.getElementById("title").textContent =
       `🎴 ${data.username} 的卡牌收藏`;
-
+    document.getElementById("avatar").src = data.avatar;
     const container = document.getElementById("card-container");
     container.innerHTML = "";
 
