@@ -13,8 +13,8 @@ body {
 
 #profile {
   display: flex;
-  align-items: center;
-  gap: 12px;
+  align-items: center;   /* 垂直置中 */
+  gap: 12px;             /* 頭貼和標題的距離 */
   margin-bottom: 20px;
 }
 
@@ -22,7 +22,12 @@ body {
   width: 64px;
   height: 64px;
   border-radius: 50%;
+  object-fit: cover;
   border: 2px solid #444;
+}
+
+#title {
+  margin: 0;             /* 移除 h1 預設 margin */
 }
 
 .card {
