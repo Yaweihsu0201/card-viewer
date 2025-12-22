@@ -22,6 +22,12 @@
       "image": "https://ik.imagekit.io/rnomfb5zn/cardgames/A_0001.png"
     },
     {
+      "id": 6,
+      "name": "Burny 01",
+      "rank": "A",
+      "image": "https://ik.imagekit.io/rnomfb5zn/cardgames/A_0001.png"
+    },
+    {
       "id": 4,
       "name": "Justlive1995 01",
       "rank": "B",
@@ -32,6 +38,12 @@
       "name": "Everyjsnndkk",
       "rank": "B",
       "image": "https://ik.imagekit.io/rnomfb5zn/cardgames/B_0002.png"
+    },
+    {
+      "id": 18,
+      "name": "Rayissexing '2022",
+      "rank": "C",
+      "image": "https://ik.imagekit.io/rnomfb5zn/cardgames/C_0003.png"
     },
     {
       "id": 18,
@@ -86,6 +98,30 @@
       "name": "Miss Kang",
       "rank": "D",
       "image": "https://ik.imagekit.io/rnomfb5zn/cardgames/D_0010.png?updatedAt=1766117799340"
+    },
+    {
+      "id": 22,
+      "name": "Peter",
+      "rank": "D",
+      "image": "https://ik.imagekit.io/rnomfb5zn/cardgames/D_0009.png?updatedAt=1766117799304"
+    },
+    {
+      "id": 22,
+      "name": "Peter",
+      "rank": "D",
+      "image": "https://ik.imagekit.io/rnomfb5zn/cardgames/D_0009.png?updatedAt=1766117799304"
+    },
+    {
+      "id": 23,
+      "name": "Miss Kang",
+      "rank": "D",
+      "image": "https://ik.imagekit.io/rnomfb5zn/cardgames/D_0010.png?updatedAt=1766117799340"
+    },
+    {
+      "id": 21,
+      "name": "Burny '2021",
+      "rank": "D",
+      "image": "https://ik.imagekit.io/rnomfb5zn/cardgames/D_0008.png?updatedAt=1766117799397"
     }
   ]
 }
