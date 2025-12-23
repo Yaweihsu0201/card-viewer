@@ -10,6 +10,12 @@
       "image": "https://ik.imagekit.io/rnomfb5zn/cardgames/A_0001.png"
     },
     {
+      "id": 28,
+      "name": "PJ-Tejo",
+      "rank": "A",
+      "image": "https://ik.imagekit.io/rnomfb5zn/cardgames/A_0007.png"
+    },
+    {
       "id": 16,
       "name": "Horus-Phoenix",
       "rank": "A",
@@ -34,10 +40,22 @@
       "image": "https://ik.imagekit.io/rnomfb5zn/cardgames/B_0001.png"
     },
     {
+      "id": 4,
+      "name": "Justlive1995 01",
+      "rank": "B",
+      "image": "https://ik.imagekit.io/rnomfb5zn/cardgames/B_0001.png"
+    },
+    {
       "id": 13,
       "name": "Everyjsnndkk",
       "rank": "B",
       "image": "https://ik.imagekit.io/rnomfb5zn/cardgames/B_0002.png"
+    },
+    {
+      "id": 19,
+      "name": "Green Tea",
+      "rank": "C",
+      "image": "https://ik.imagekit.io/rnomfb5zn/cardgames/C_0004.png"
     },
     {
       "id": 18,
@@ -62,6 +80,18 @@
       "name": "Justlive1995 03",
       "rank": "D",
       "image": "https://ik.imagekit.io/rnomfb5zn/cardgames/D_0006.png?updatedAt=1765965752695"
+    },
+    {
+      "id": 10,
+      "name": "Shenz",
+      "rank": "D",
+      "image": "https://ik.imagekit.io/rnomfb5zn/cardgames/D_0005.png"
+    },
+    {
+      "id": 23,
+      "name": "Miss Kang",
+      "rank": "D",
+      "image": "https://ik.imagekit.io/rnomfb5zn/cardgames/D_0010.png?updatedAt=1766117799340"
     },
     {
       "id": 7,
